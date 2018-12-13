@@ -1,6 +1,6 @@
 #!/bin/bash
 ############################################################################################
-# Script for installing Odoo V11 on Ubuntu
+# Script for installing Odoo V12 on Ubuntu
 # Author: Odoo Experts
 #-------------------------------------------------------------------------------------------
 # This script will install Odoo on your Ubuntu server.
